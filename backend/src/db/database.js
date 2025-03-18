@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
-// const mongoHost = process.env.MONGO_HOST || 'localhost';
-// const mongoPort = process.env.MONGO_PORT || '27018';
+// const mongoHost = process.env.MONGO_HOST || 'mongo-service';
+// const mongoPort = process.env.MONGO_PORT || '27017';
 // const dbName = process.env.MONGO_DB_NAME || "food_frenzy";
 
 // const connectionToDB = () => {
